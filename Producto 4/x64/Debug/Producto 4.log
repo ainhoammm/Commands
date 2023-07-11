@@ -1,0 +1,4 @@
+﻿  libreriaFunciones.c
+C:\Users\ainho\source\repos\Producto 4\Producto 4\libreriaFunciones.c(260,7): warning C4101: 'nombre': variable local sin referencia
+C:\Users\ainho\source\repos\Producto 4\Producto 4\libreriaFunciones.c(305): warning C4715: 'obtenerNombreAdaptador': no todas las rutas de acceso de control devuelven un valor
+  Producto 4.vcxproj -> C:\Users\ainho\source\repos\Producto 4\x64\Debug\Producto 4.exe

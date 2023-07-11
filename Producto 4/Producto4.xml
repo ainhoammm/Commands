@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Producto4>
+	<Interface>
+		<ip>192.168.0.23(Preferido) </ip> 
+		<mascara>255.255.255.0</mascara> 
+		<gateway>192.168.0.1</gateway> 
+	</Interface> 
+	<dns> 
+		<primario>8.8.8.8</primario> 
+		<saltos> 
+			<salto>192.168.0.1</salto> 
+			<salto>10.175.64.1</salto> 
+			<salto>172.19.101.29</salto> 
+			<salto>212.142.130.17</salto> 
+			<salto>172.22.190.114</salto> 
+			<salto>80.231.157.21</salto> 
+			<salto>5.23.28.134</salto> 
+			<salto>72.14.213.246</salto> 
+			<salto>74.125.242.161</salto> 
+			<salto>74.125.253.201</salto> 
+			<salto>8.8.8.8</salto> 
+		</saltos>
+	</dns>
+</Producto4>

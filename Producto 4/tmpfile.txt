@@ -1,0 +1,51 @@
+
+Configuraci¢n para la interfaz "Conexi¢n de  rea local* 1"
+    DHCP habilitado:                         S¡
+    M‚trica de interfaz:                      25
+    Servidores DNS configurados a trav‚s de DHCP: ninguno
+    Registrar con el sufijo:           Solo el principal
+    Servidores WINS configurados a trav‚s de DHCP: ninguno
+
+Configuraci¢n para la interfaz "Conexi¢n de  rea local* 2"
+    DHCP habilitado:                         No
+    M‚trica de interfaz:                      25
+    Servidores DNS configurados est ticamente:   ninguno
+    Registrar con el sufijo:           Solo el principal
+    Servidores WINS configurados est ticamente:   ninguno
+
+Configuraci¢n para la interfaz "Wi-Fi"
+    DHCP habilitado:                         S¡
+    Direcci¢n IP:                           192.168.0.23
+    Prefijo de subred:                        192.168.0.0/24 (m scara 255.255.255.0)
+    Puerta de enlace predeterminada:                   192.168.0.1
+    M‚trica de puerta de enlace:                       0
+    M‚trica de interfaz:                      50
+    Servidores DNS configurados est ticamente:    8.8.8.8
+    Registrar con el sufijo:           Solo el principal
+    Servidores WINS configurados a trav‚s de DHCP: ninguno
+
+Configuraci¢n para la interfaz "Conexi¢n de red Bluetooth 3"
+    DHCP habilitado:                         S¡
+    M‚trica de interfaz:                      65
+    Servidores DNS configurados a trav‚s de DHCP: ninguno
+    Registrar con el sufijo:           Solo el principal
+    Servidores WINS configurados a trav‚s de DHCP: ninguno
+
+Configuraci¢n para la interfaz "Loopback Pseudo-Interface 1"
+    DHCP habilitado:                         No
+    Direcci¢n IP:                           127.0.0.1
+    Prefijo de subred:                        127.0.0.0/8 (m scara 255.0.0.0)
+    M‚trica de interfaz:                      75
+    Servidores DNS configurados est ticamente:   ninguno
+    Registrar con el sufijo:           Solo el principal
+    Servidores WINS configurados est ticamente:   ninguno
+
+Configuraci¢n para la interfaz "vEthernet (WSL)"
+    DHCP habilitado:                         No
+    Direcci¢n IP:                           172.29.112.1
+    Prefijo de subred:                        172.29.112.0/20 (m scara 255.255.240.0)
+    M‚trica de interfaz:                      5000
+    Servidores DNS configurados est ticamente:   ninguno
+    Registrar con el sufijo:           Ninguno
+    Servidores WINS configurados est ticamente:   ninguno
+
